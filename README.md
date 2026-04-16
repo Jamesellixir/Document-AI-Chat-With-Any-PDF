@@ -130,13 +130,17 @@ streamlit run app.py
 
 ## Screenshots
 
-Add your best app screenshots here:
+-----
 <img width="966" height="776" alt="Screenshot 2026-04-17 002158" src="https://github.com/user-attachments/assets/dd3d5a0e-1484-46b6-858e-f9bacc631f91" />
+-----
 <img width="1002" height="739" alt="Screenshot 2026-04-17 001903" src="https://github.com/user-attachments/assets/8f37a183-4d41-46a8-af23-2d87331e2f05" />
+-----
 <img width="1016" height="804" alt="Screenshot 2026-04-17 001701" src="https://github.com/user-attachments/assets/417b93ff-acf0-4d4b-9e0c-4f5559f02a09" />
+-----
 <img width="901" height="763" alt="Screenshot 2026-04-17 001646" src="https://github.com/user-attachments/assets/45934143-fdbd-455d-b4af-bd3898b845b8" />
+-----
 <img width="954" height="770" alt="Screenshot 2026-04-17 001521" src="https://github.com/user-attachments/assets/52acd652-136d-427e-801a-f4fadb3167f7" />
-
+-----
 
 ## StarForge Branding
 
